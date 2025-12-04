@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Beginning",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-04T19:26:17.750040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Beginning of Memory",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/01_The_Beginning_of_Memory_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Beginning Of The End",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/02_The_Beginning_Of_The_End_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Beginning of the End - ladytron",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/03_The_Beginning_of_the_End_-_ladytron_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Beginning of the End (Ladytron)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/04_The_Beginning_of_the_End_(Ladytron)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When The End Meets The Beginning",
+      "artist": "Nobody & Mystic Chords of Memory",
+      "has_synced": false,
+      "path": "select/05_When_The_End_Meets_The_Beginning_Nobody_&_Mystic_Chords_of_Memory.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Beginning And the End",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/06_The_Beginning_And_the_End_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In The Beginning",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/07_In_The_Beginning_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End of the Beginning",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/08_End_of_the_Beginning_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Beginning Of The End",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/09_The_Beginning_Of_The_End_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End of the Beginning",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/10_End_of_the_Beginning_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In the Beginning",
+      "artist": "Planet Funk",
+      "has_synced": false,
+      "path": "select/11_In_the_Beginning_Planet_Funk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In The Beginning",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/12_In_The_Beginning_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love the Beginning",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/13_Love_the_Beginning_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Before the Beginning",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/14_Before_the_Beginning_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Beginning",
+      "artist": "Audio Bullys",
+      "has_synced": false,
+      "path": "select/15_The_Beginning_Audio_Bullys.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Beginning",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_The_Beginning_ONE_OK_ROCK.txt"
+    }
+  ]
+}
